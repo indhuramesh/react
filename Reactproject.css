@@ -1,0 +1,90 @@
+.frame-1 {
+  text-align: center;
+  color: #433636;
+  width: 100%;
+  height: 100%;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Inter;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 77px;
+  display: flex;
+}
+
+.mac-book-pro-16-16 {
+  height: 100%;
+  background-color: #fff;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-start;
+  align-items: stretch;
+  display: flex;
+}
+
+.app-16 {
+  height: 100%;
+  background-position: center;
+  background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-030.jpg");
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-around;
+  align-items: center;
+  padding: 44px 48px 6px 80px;
+  display: flex;
+}
+
+.akar-iconsarrow-left {
+  width: 69px;
+  height: 62px;
+  object-fit: cover;
+  align-self: flex-start;
+  margin-left: 9px;
+}
+
+.order-placed {
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.ellipse-14 {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  background-image: url("https://cdn.dribbble.com/users/2572904/screenshots/17169793/media/ed801ffe0fbeb4b95ca246ba1f5ea398.gif");
+  background-position: center;
+  background-size: cover;
+  margin-top: 6px;
+  margin-bottom: 13px;
+}
+
+.thank-you {
+  color: #000;
+  margin-top: 5px;
+  font-size: 3rem;
+  line-height: 58px;
+}
+
+.rectangle-118 {
+  color: #000;
+  text-align: center;
+  width: 20%;
+  background-color: lightgreen;
+  cursor: pointer;
+  border: none;
+  border-radius: 40px;
+  flex-direction: row;
+  flex-basis: 7%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding-left: 1px;
+  font-family: Inter;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 58px;
+  display: flex;
+}
